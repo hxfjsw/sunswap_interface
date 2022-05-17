@@ -27,7 +27,7 @@ const Config = {
   v2Contract: {
     poly: "THAALWtwcxUxuSJ8h4ZSZGzzTaYhVQaNPf",
     factory: "TKWJdrQkqHisa1X8HUdHEfREvTzw4pMAaY",
-    router: "TKzxdSv2FZKQrEqkKVgp5DcwEXBEKMg2Ax",
+    router: "TL6p4Pw3Gn6uimtVnSiKWdenGcQxaxkd5G",
   },
   migrateContract: {
     v1: "TRBnS7G2avcryeXtUAQ66mikec4XgZHSCd",
@@ -268,7 +268,7 @@ if (env === "qaTest") {
     v2Contract: {
       poly: "TP7pjV9RHSXAfcXVh6XbRg3oSbTMgriffU",
       factory: "TChXfbQLafcoExbcXTtwNZMBKdeW2p1V5G",
-      router: "TEoXPVByZaxNCBWRzawoSVj4X86PDPfkjj",
+      router: "TL6p4Pw3Gn6uimtVnSiKWdenGcQxaxkd5G",
     },
     migrateContract: {
       v1: "TRteBL1qsDyE3jPtdLu81YRocKrwXERiN1",
