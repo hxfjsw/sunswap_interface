@@ -253,7 +253,7 @@ if (env === 'qaTest') {
   devConfig = {
     chain: {
       privateKey: '01',
-      fullHost: 'https://api.nileex.io'
+      fullHost: 'https://api.shasta.trongrid.io'
     },
     contract: {
       factory: 'TXFouUxm4Qs3c1VxfQtCo4xMxbpwE3aWDM',
@@ -264,9 +264,9 @@ if (env === 'qaTest') {
       poly: 'TTbvkvzTHNwACb9hSrwcTHG6pE6GaKJ4AT'
     },
     v2Contract: {
-      poly: 'THKx73oAnA6kejnEBzgFkNH2mD93neqmu8',
-      factory: 'THomLGMLhAjMecQf9FQjbZ8a1RtwsZLrGE',
-      router: 'TMn1qrmYUMSTXo9babrJLzepKZoPC7M6Sy'
+      poly: 'TP7pjV9RHSXAfcXVh6XbRg3oSbTMgriffU',
+      factory: 'TChXfbQLafcoExbcXTtwNZMBKdeW2p1V5G',
+      router: 'TEoXPVByZaxNCBWRzawoSVj4X86PDPfkjj'
     },
     migrateContract: {
       v1: 'TRteBL1qsDyE3jPtdLu81YRocKrwXERiN1',
@@ -284,7 +284,7 @@ if (env === 'qaTest') {
       newSunPrice: '1000',
       maxBtnDecimal: 6
     },
-    tronscanUrl: 'https://nile.tronscan.io/#',
+    tronscanUrl: 'https://shasta.tronscan.io/#',
     swapService: 'http://123.56.166.152:10088/swap',
     swapServiceV2: 'http://47.252.23.81:10085/swapv2',
     remainTrx: 100,
